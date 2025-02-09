@@ -10,7 +10,6 @@ import os
 
 
 # Import all check functions
-from checks.check_domain_breach import check_domain_breach
 from checks.check_domain_expiration import check_domain_expiration
 from checks.check_ssl_cert import check_ssl_cert
 from checks.check_dns_blacklist import check_dns_blacklist
@@ -106,7 +105,6 @@ class WebsiteMonitor:
     def _initialize_check_functions(self) -> List['WebsiteMonitor.Check']:
         """Initialize the list of check functions with their names."""
         checks = [
-            self.Check("Domain breach", check_domain_breach),
             self.Check("Domain Expiration", check_domain_expiration),
             self.Check("SSL Certificate", check_ssl_cert),
             self.Check("DNS Blacklists", check_dns_blacklist, timeout=45),
