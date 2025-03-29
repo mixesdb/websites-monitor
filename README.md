@@ -110,8 +110,8 @@ For any issues or suggestions regarding this project, feel free to open an issue
 # Websites Monitor
 
 
-This report was automatically generated on 2025-03-28 04:01:29 UTC.
+This report was automatically generated on 2025-03-29 04:01:42 UTC.
 
 | Website | Domain Expiration | SSL Certificate | DNS Blacklists | DomainsBlacklists | HSTS | XSS Protection | Redirect chains | Pagespeed | Load Time | Rate Limiting | CDN | Brotli | Deprecated Libraries | Client Rendering | Mixed Content | Content-Type | i18n | FLoC | AMP | Robots.txt | Sitemap | Favicon | Alt Tags | Open Graph | Semantic Markup | Ad Tracking | WHOIS Privacy | Privacy Exposure |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-www.mixesdb.com | 🟢 (265 days left) | 🟢 (40 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | ⚪ | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 |
+www.mixesdb.com | 🟢 (264 days left) | 🟢 (39 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 98 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 |
